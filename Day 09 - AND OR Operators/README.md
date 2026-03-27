@@ -1,10 +1,10 @@
 # Day 09 - AND & OR Operators in SQL
 
-## 📌 Topic
+## Topic
 
 Using AND and OR operators to filter data
 
-## 💻 SQL Query
+## SQL Query
 
 ```sql
 SELECT
